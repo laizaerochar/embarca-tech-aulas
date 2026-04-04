@@ -27,4 +27,5 @@ embarca-tech-aulas
  ┣ Unidade-03
  ┣ Unidade-04
  ┣ Unidade-05
+ ┣ Unidade-06
  ┗ README.md
