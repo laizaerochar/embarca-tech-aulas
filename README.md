@@ -19,7 +19,7 @@ A ideia é transformar o conteúdo do curso em algo mais didático e fácil de r
 - Compartilhar conhecimento com as pessoas
 - Desenvolver o hábito de documentação técnica  
 
-## Estrutura (em construção)
+## Estrutura
 
 ```bash
 embarca-tech-aulas
